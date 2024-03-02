@@ -1,2 +1,3 @@
 # Time_Series
-Time Series Analysis Concepts
+**Time Series Analysis Concepts**    
+1) Stationary
