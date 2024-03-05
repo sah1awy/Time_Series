@@ -2,4 +2,5 @@
 **Time Series Analysis Concepts**    
 - Stationarity
 - Box Cox  
-- Seasonality
+- Seasonality  
+- Decomposition
