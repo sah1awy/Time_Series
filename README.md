@@ -4,3 +4,4 @@
 - Box Cox  
 - Seasonality  
 - Decomposition
+- Auto Correlation
