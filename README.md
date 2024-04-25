@@ -5,3 +5,6 @@
 - Seasonality  
 - Decomposition
 - Auto Correlation
+- AR Models
+- ARIMA models
+- SARIMA models
